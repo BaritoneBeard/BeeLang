@@ -11,9 +11,9 @@ BeeLang is similar perhaps the most infamous esoteric language, Brainfuck. BeeLa
 **For help:**
 ```bee```
 
-**B** refers to current register.
-**b** refers to ptr location.
-**eE increments** 
-**Ee decrements**
-**BEE** prints all registers
-**Bee** prints current register
+**B** refers to current register. \n
+**b** refers to ptr location. \n
+**eE increments** \n
+**Ee decrements** \n
+**BEE** prints all registers \n
+**Bee** prints current register \n
