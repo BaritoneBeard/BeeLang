@@ -1,5 +1,5 @@
 # BeeLang
-Stupid (but fun) little esoteric language
+Stupid (but fun) little esoteric language, will be updated frequently.
 
 To run BeeLang
 ``` Python3 Bee.py ```
