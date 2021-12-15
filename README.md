@@ -16,7 +16,7 @@ there is also a script for those that prefer.
 
 once compiled: 
 
-```./Bee <name_of_input_file>.txt
+```./Bee <name_of_input_file>.txt```
 
 BeeLang is interpreted.
 
