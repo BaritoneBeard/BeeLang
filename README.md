@@ -1,6 +1,22 @@
-# BeeLang
-Stupid (but fun) little esoteric language, will be updated frequently.
+ <h3 align="center">MySQL Server README</h3>
+ <h4 align = "center">a stupid (but fun) little esoteric language</h4>
 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a>Running the Language</a>
+    </li>
+    <li>
+      <a>Help/Info</a>
+    </li>
+  </ol>
+</details>
+
+
+<!-- Running the Language-->
+# Running the Language
 To run BeeLang in python from commandline:
 ``` Python3 Bee.py ```
 
@@ -22,9 +38,14 @@ BeeLang is interpreted.
 
 BeeLang consists of an array of registers which all start at 0, these registers can be changed and will display a letter based on what value is being store. 0-25 for a-z, -1 for space.
 
-**For help:**
+<!-- Help/Info-->
+# Help/Info
+
+the keyword
 
 ```bee```
+
+will bring up the following information
 
 **B** refers to current register. 
 
