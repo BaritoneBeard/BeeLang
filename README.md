@@ -41,7 +41,7 @@ once compiled:
 
 BeeLang is interpreted.
 
-BeeLang consists of an array of registers which all start at 0, these registers can be changed and will display a letter based on what value is being store. 0-25 for a-z, -1 for space.
+BeeLang consists of an array of registers which all start at 0, these registers can be changed and will display a letter based on what value is being store. 1-26 for a-z, 0 for space.
 
 <!-- Help/Info-->
 # Help/Info
