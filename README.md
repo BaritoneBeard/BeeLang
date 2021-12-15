@@ -25,7 +25,7 @@ To run BeeLang in python from commandline:
  That's it!
 
 <h3> C </h3>
-To run Beelang in C from commandline:
+To run BeeLang in C from commandline:
 
 compile:
 ```gcc -o Bee Bee.c```
