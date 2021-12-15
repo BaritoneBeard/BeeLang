@@ -17,9 +17,14 @@
 
 <!-- Running the Language-->
 # Running the Language
-To run BeeLang in python from commandline:
-``` Python3 Bee.py ```
+<h3> Python </h3>
 
+To run BeeLang in python from commandline:
+ ``` Python3 Bee.py ```
+ 
+ That's it!
+
+<h3> C </h3>
 To run Beelang in C from commandline:
 
 compile:
