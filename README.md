@@ -1,4 +1,4 @@
- <h3 align="center">MySQL Server README</h3>
+ <h3 align="center">Bee Language</h3>
  <h4 align = "center">a stupid (but fun) little esoteric language</h4>
 
 <!-- TABLE OF CONTENTS -->
