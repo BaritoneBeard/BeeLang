@@ -20,7 +20,7 @@
 <h3> Python </h3>
 
 To run BeeLang in python from commandline:
- ``` Python3 Bee.py ```
+ ``` Python3 Bee.py ``` or ```Python Bee.py```
  
  That's it!
 
