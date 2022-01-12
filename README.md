@@ -1,5 +1,6 @@
  <h3 align="center">Bee Language</h3>
- <h4 align = "center">a stupid (but fun) little esoteric language</h4>
+ <h4 align = "center">a stupid (but fun) little esoteric language, <br>
+ made purely to test out ways of coding compilers/interpreters</h4>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
